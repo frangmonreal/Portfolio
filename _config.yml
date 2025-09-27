@@ -1,3 +1,14 @@
-title: Francisca González Monreal
-#show_downloads: true
-theme: minima
+title: "Francisca González — Quant Developer"
+url: "https://frangmonreal.github.io"   # your user site
+baseurl: "/Portfolio"                    # your repo name (project site)
+
+theme: minima                            # use the bundled Minima on GitHub Pages
+show_excerpts: true
+
+header_pages:
+  - about.md
+  - posts.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
