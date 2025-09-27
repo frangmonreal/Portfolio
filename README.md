@@ -2,8 +2,6 @@
 
 **MFE | Quant Engineering (EN/ES).** I build **inflation nowcasting**, **yield-curve** models, and **portfolio risk** tooling with reproducible pipelines (Python/R/VBA). I like shipping robust, client-ready analytics.
 
-[CV (PDF)](/assets/CV_FranciscaGonzalez.pdf) · [LinkedIn](https://linkedin.com/in/...) · [Email](mailto:you@example.com)
-
 ## Selected Projects
 - **Inflation Nowcasting** — SARIMA + exógenas, evaluación rolling, reporting reproducible.  
   _Stack:_ Python, pandas, statsmodels · _Highlights:_ MAPE nowcast < **x%**, walk-forward split.  
