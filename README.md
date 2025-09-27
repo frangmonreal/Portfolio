@@ -1,3 +1,5 @@
+# Résumé
+
 **MFE | Quant Engineering (EN/ES).** I build **inflation nowcasting**, **yield-curve** models, and **portfolio risk** tooling with reproducible pipelines (Python/R/VBA). I like shipping robust, client-ready analytics.
 
 ## Selected Projects
