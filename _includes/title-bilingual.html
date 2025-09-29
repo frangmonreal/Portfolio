@@ -1,9 +1,5 @@
-{%- comment -%}
-Displays a bilingual H1 title on post pages.
-- Uses EN `page.title` and ES `page.title_es` (falls back to EN if ES missing).
-- Your lang switch JS hides/shows the <span data-lang="..."> nodes.
-{%- endcomment -%}
 <h1 class="post-title">
   <span data-lang="en">{{ page.title | escape }}</span>
   <span data-lang="es">{{ page.title_es | default: page.title | escape }}</span>
 </h1>
+
