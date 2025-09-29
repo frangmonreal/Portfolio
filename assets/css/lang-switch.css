@@ -41,7 +41,7 @@
 }
 
 /* Optional: hide toggle on post lists */
-/*.post-list .lang-toggle{ display:none; }
+/*.post-list .lang-toggle{ display:none; } */
 .home .post-list-heading { display: none; }
 
 /* Dark mode tweak (if your theme switches) */
