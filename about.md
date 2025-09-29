@@ -32,7 +32,7 @@ I build **reproducible analytics and tools** for macro & markets: inflation **no
 - **Soft:** clear communication, collaboration with research & product, adaptability
 
 **CV:** [Download PDF]({{ "/assets/Gonzalez, Francisca Résumé 2025.pdf" | relative_url }})  
-**Contact:** you@example.com · [LinkedIn](https://linkedin.com/in/frangmonreal)
+**Contact:** frangmonreal@gmail.com · [LinkedIn](https://linkedin.com/in/frangmonreal)
 
 </div>
 
@@ -61,7 +61,7 @@ Construyo **analítica y herramientas reproducibles** para macro y mercados: **n
 - **Blandas:** comunicación clara, colaboración con research y producto, adaptabilidad
 
 **CV:** [Descargar PDF]({{ "/assets/Gonzalez, Francisca Résumé 2025.pdf" | relative_url }})  
-**Contacto:** you@example.com · [LinkedIn](https://linkedin.com/in/frangmonreal)
+**Contacto:** frangmonreal@gmail.com · [LinkedIn](https://linkedin.com/in/frangmonreal)
 
 </div>
 
