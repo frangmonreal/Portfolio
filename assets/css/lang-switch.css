@@ -1,21 +1,52 @@
-.lang-toggle {
-  display: inline-flex;
-  gap: 0.25rem;
-  border: 1px solid #e5e7eb;
-  border-radius: 9999px;
-  padding: 0.125rem;
-  margin: 0.5rem 0 1rem 0;
-  background: #fff;
+/* Segmented ES/EN pill for Minima */
+.lang-toggle{
+  display:inline-flex;
+  align-items:center;
+  gap:0;
+  border:1px solid #e5e7eb;
+  border-radius:9999px;
+  padding:2px;
+  background:#fff;
+  box-shadow:0 1px 2px rgba(0,0,0,.04);
+  user-select:none;
 }
-.lang-toggle .lang-btn {
-  border: none;
-  background: transparent;
-  padding: 0.3rem 0.7rem;
-  border-radius: 9999px;
-  cursor: pointer;
-  font: inherit;
+
+/* Reset button quirks and align text */
+.lang-toggle .lang-btn{
+  appearance:none;
+  -webkit-appearance:none;
+  border:0;
+  background:transparent;
+  padding:6px 14px;
+  margin:0;
+  border-radius:9999px;
+  font:inherit;
+  line-height:1;         /* keeps the height tight */
+  cursor:pointer;
+  color:#111;
 }
-.lang-toggle .lang-btn.active {
-  background: #f2f2f2;
+
+/* Active segment */
+.lang-toggle .lang-btn.active{
+  background:#111;       /* dark segment */
+  color:#fff;
 }
-.post-list .lang-toggle { display: none; }
+
+/* Hover + focus states */
+.lang-toggle .lang-btn:hover{ background:#f6f6f6; }
+.lang-toggle .lang-btn.active:hover{ background:#111; }
+.lang-toggle .lang-btn:focus-visible{
+  outline:2px solid #1a73e8;
+  outline-offset:2px;
+}
+
+/* Optional: hide toggle on post lists */
+.post-list .lang-toggle{ display:none; }
+
+/* Dark mode tweak (if your theme switches) */
+@media (prefers-color-scheme: dark){
+  .lang-toggle{ background:#161616; border-color:#2a2a2a; }
+  .lang-toggle .lang-btn{ color:#eaeaea; }
+  .lang-toggle .lang-btn:hover{ background:#222; }
+  .lang-toggle .lang-btn.active{ background:#eaeaea; color:#111; }
+}
