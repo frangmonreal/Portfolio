@@ -9,7 +9,7 @@ permalink: /posts/term-premium-bilingual/
 canonical_url: https://www.pacificoresearch.com/midiendo-incertidumbre-por-medio-del-premio-por-plazo/
 ---
 
-{% include lang-switch.html %}
+<p>{% include lang-switch.html %}</p>
 
 <div data-lang="es">
 
