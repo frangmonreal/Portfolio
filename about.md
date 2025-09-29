@@ -5,7 +5,7 @@ permalink: /about/
 default_lang: en
 ---
 
-{% include lang-switch.html %}
+<p>{% include lang-switch.html %}</p>
 
 <div data-lang="en" markdown="1">
 
