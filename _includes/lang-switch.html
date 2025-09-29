@@ -1,0 +1,27 @@
+{% comment %}
+Bilingual language switch (client-side) for Jekyll Minima.
+Usage in a post:
+  ---
+  layout: post
+  title: "My bilingual post"
+  date: 2025-09-28 10:00:00 -0400
+  default_lang: es   # or 'en'
+  ---
+  {% include lang-switch.html %}
+  <div data-lang="es">
+    Contenido en español…
+  </div>
+  <div data-lang="en">
+    Content in English…
+  </div>
+{% endcomment %}
+
+<link rel="stylesheet" href="{{ '/assets/css/lang-switch.css' | relative_url }}">
+<div class="lang-toggle" role="group" aria-label="Language switch">
+  <button type="button" class="lang-btn" data-set-lang="es" aria-pressed="false">ES</button>
+  <button type="button" class="lang-btn" data-set-lang="en" aria-pressed="false">EN</button>
+</div>
+<script>
+  window.defaultLang = "{{ page.default_lang | default: 'es' }}";
+</script>
+<script src="{{ '/assets/js/lang-switch.js' | relative_url }}"></script>
