@@ -10,8 +10,6 @@ permalink: /posts/term-premium-bilingual/
 canonical_url: https://www.pacificoresearch.com/midiendo-incertidumbre-por-medio-del-premio-por-plazo/
 ---
 
-{% include lang-switch.html %}
-
 <div data-lang="es" markdown="1">
 
 **Resumen (ES).** Nota sobre cómo el **premio por plazo** puede reflejar cambios en la incertidumbre macro/financiera.
