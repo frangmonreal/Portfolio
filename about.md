@@ -62,8 +62,12 @@ Construyo **analítica y herramientas reproducibles** para macro y mercados: **n
 - **Blandas:** comunicación clara, colaboración con research y producto, adaptabilidad
 
 
-**CV:** [Download PDF]({{ "/assets/CV_FranciscaGonzalez_2025.pdf" | relative_url }})
-**Contacto:** frangmonreal@gmail.com · [LinkedIn](https://linkedin.com/in/frangmonreal)
+<p><strong>CV:</strong>
+  <a href="{{ '/assets/CV_FranciscaGonzalez_2025.pdf' | relative_url }}"
+     target="_blank" rel="noopener">Descargar PDF</a>
+  · <strong>Contacto:</strong> <a href="mailto:frangmonreal@gmail.com">frangmonreal@gmail.com</a>
+  · <a href="https://www.linkedin.com/in/your-handle/" target="_blank" rel="noopener">LinkedIn</a>
+</p>
 
 </div>
 
