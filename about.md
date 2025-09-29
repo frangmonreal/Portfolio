@@ -31,7 +31,11 @@ I build **reproducible analytics and tools** for macro & markets: inflation **no
 - **Workflow:** Git/GitHub Actions, `pytest`, `ruff/black`, `mypy`, LaTeX, Excel  
 - **Soft:** clear communication, collaboration with research & product, adaptability
 
-**CV:** [Download PDF]({{ "/assets/Gonzalez, Francisca Resume 2025.pdf" | relative_url }})  
+<div data-lang="en" markdown="1">
+…
+**CV:** [Download PDF]({{ "/assets/CV_FranciscaGonzalez_2025.pdf" | relative_url }}){:target="_blank" rel="noopener"}
+…
+</div>
 **Contact:** frangmonreal@gmail.com · [LinkedIn](https://linkedin.com/in/frangmonreal)
 
 </div>
@@ -60,7 +64,12 @@ Construyo **analítica y herramientas reproducibles** para macro y mercados: **n
 - **Flujo:** Git/GitHub Actions, `pytest`, `ruff/black`, `mypy`, LaTeX, Excel  
 - **Blandas:** comunicación clara, colaboración con research y producto, adaptabilidad
 
-**CV:** [Descargar PDF]({{ "/assets/Gonzalez, Francisca Resume 2025.pdf" | relative_url }})  
+<div data-lang="es" markdown="1">
+…
+**CV:** [Download PDF]({{ "/assets/CV_FranciscaGonzalez_2025.pdf" | relative_url }}){:target="_blank" rel="noopener"}
+…
+</div>
+
 **Contacto:** frangmonreal@gmail.com · [LinkedIn](https://linkedin.com/in/frangmonreal)
 
 </div>
