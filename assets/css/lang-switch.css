@@ -44,9 +44,9 @@
 .post-list .lang-toggle{ display:none; }
 
 /* Dark mode tweak (if your theme switches) */
-@media (prefers-color-scheme: dark){
-  .lang-toggle{ background:#161616; border-color:#2a2a2a; }
-  .lang-toggle .lang-btn{ color:#eaeaea; }
-  .lang-toggle .lang-btn:hover{ background:#222; }
-  .lang-toggle .lang-btn.active{ background:#eaeaea; color:#111; }
-}
+/* @media (prefers-color-scheme: dark){
+/*   .lang-toggle{ background:#161616; border-color:#2a2a2a; }
+/*   .lang-toggle .lang-btn{ color:#eaeaea; }
+/*   .lang-toggle .lang-btn:hover{ background:#222; }
+/*   .lang-toggle .lang-btn.active{ background:#eaeaea; color:#111; }
+/* }
