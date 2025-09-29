@@ -3,6 +3,9 @@ layout: home
 title: "Résumé"
 ---
 
+
+<p>{% include lang-switch.html %}</p>
+
 ## Hi, I’m Francisca 👋
 
 Widely experienced expert in quantitative analysis and programming with a strong record of tackling challenges and
