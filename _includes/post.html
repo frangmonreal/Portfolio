@@ -12,7 +12,9 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
       </time>
-      {%- if page.author -%} • <span itemprop="author" class="p-author h-card">{{ page.author }}</span>{%- endif -%}
+      {%- if page.author -%}
+        • <span itemprop="author" class="p-author h-card">{{ page.author }}</span>
+      {%- endif -%}
     </p>
   </header>
 
