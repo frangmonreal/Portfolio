@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Midiendo incertidumbre / Measuring uncertainty via the term premium"
+title: "Measuring uncertainty via the term premium"     # EN (canonical)
+title_es: "Midiendo incertidumbre por medio del premio por plazo"   # ES
 date: 2025-09-28 12:00:00 -0400
 default_lang: es   # choose initial language: 'es' or 'en'
 categories: macro
