@@ -32,8 +32,12 @@ I build **reproducible analytics and tools** for macro & markets: inflation **no
 - **Soft:** clear communication, collaboration with research & product, adaptability
 
 
-**CV:** [Download PDF]({{ "/assets/CV_FranciscaGonzalez_2025.pdf" | relative_url }})
-**Contact:** frangmonreal@gmail.com · [LinkedIn](https://linkedin.com/in/frangmonreal)
+<p><strong>CV:</strong>
+  <a href="{{ '/assets/CV_FranciscaGonzalez_2025.pdf' | relative_url }}"
+     target="_blank" rel="noopener">Download PDF</a>
+  · <strong>Contact:</strong> <a href="mailto:frangmonreal@gmail.com">frangmonreal@gmail.com</a>
+  · <a href="https://www.linkedin.com/in/frangmonreal/" target="_blank" rel="noopener">LinkedIn</a>
+</p>
 
 </div>
 
@@ -66,7 +70,7 @@ Construyo **analítica y herramientas reproducibles** para macro y mercados: **n
   <a href="{{ '/assets/CV_FranciscaGonzalez_2025.pdf' | relative_url }}"
      target="_blank" rel="noopener">Descargar PDF</a>
   · <strong>Contacto:</strong> <a href="mailto:frangmonreal@gmail.com">frangmonreal@gmail.com</a>
-  · <a href="https://www.linkedin.com/in/your-handle/" target="_blank" rel="noopener">LinkedIn</a>
+  · <a href="https://www.linkedin.com/in/frangmonreal/" target="_blank" rel="noopener">LinkedIn</a>
 </p>
 
 </div>
