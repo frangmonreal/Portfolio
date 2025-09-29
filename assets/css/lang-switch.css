@@ -18,3 +18,4 @@
 .lang-toggle .lang-btn.active {
   background: #f2f2f2;
 }
+.post-list .lang-toggle { display: none; }
