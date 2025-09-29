@@ -7,7 +7,7 @@ default_lang: en   # initial view for the switch: en or es
 
 {% include lang-switch.html %}
 
-<div data-lang="en">
+<div data-lang="en" markdown="1">
 
 ### Hi, I’m Francisca — Quant Developer (MFE)
 I build **reproducible analytics and tools** for macro & markets: inflation **nowcasting**, **yield-curve** modeling, **options** calibration, and **portfolio risk**. I like shipping product-ready code that bridges economists and quant teams (EN/ES).
@@ -41,7 +41,7 @@ I build **reproducible analytics and tools** for macro & markets: inflation **no
 
 </div>
 
-<div data-lang="es">
+<div data-lang="es" markdown="1">
 
 ### Hola, soy Francisca — Quant Developer (MFE)
 Construyo **analítica y herramientas reproducibles** para macro y mercados: **nowcasting** de inflación, **curvas de rendimiento**, **opciones** y **riesgo de portafolio**. Me enfoco en código listo para producto que conecte economistas con equipos cuantitativos (ES/EN).
