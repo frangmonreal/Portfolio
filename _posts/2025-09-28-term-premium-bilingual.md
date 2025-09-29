@@ -11,7 +11,7 @@ canonical_url: https://www.pacificoresearch.com/midiendo-incertidumbre-por-medio
 
 {% include lang-switch.html %}
 
-<div data-lang="es">
+<div data-lang="es" markdown="1">
 
 **Resumen (ES).** Nota sobre cómo el **premio por plazo** puede reflejar cambios en la incertidumbre macro/financiera.
 Lectura original en Pacifico Research:  
@@ -22,7 +22,7 @@ Lectura original en Pacifico Research:
 
 </div>
 
-<div data-lang="en">
+<div data-lang="en" markdown="1">
 
 **Summary (EN).** A short note on how the **term premium** can serve as a lens on macro/rates uncertainty.
 Original article at Pacifico Research:  
