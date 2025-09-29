@@ -1,6 +1,3 @@
-{%- comment -%}
-Renders an H1 with EN/ES spans; falls back to EN if title_es missing.
-{%- endcomment -%}
 <h1 class="post-title">
   <span data-lang="en">{{ page.title | escape }}</span>
   <span data-lang="es">{{ page.title_es | default: page.title | escape }}</span>
