@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Résumé"
+title: "Resume"
 ---
 
 
@@ -8,21 +8,28 @@ title: "Résumé"
 
 <div data-lang="es" markdown="1">
   
-## Hi, I’m Francisca 👋
+### Hi, I’m Francisca 👋
 
-Widely experienced expert in quantitative analysis and programming with a strong record of tackling challenges and
-driving impactful, enduring solutions; highly skilled in managing complex projects from concept to completion, bridging communication
-between economists and quantitative experts and ensuring robust, user-friendly solutions; bilingual in English and Spanish and able to
-adapt to different work environments
+I’m a Quant Developer (MFE). This site is my **learning journey** and a living portfolio: I share notes, small experiments, and write-ups to show **how I think**, **what I ship**, and **where I’m growing** (macro time series, yield curves, options, portfolio risk).
 
+**Objective of this page**
+- Share concise, reproducible learnings (not polished papers).
+- Show end-to-end capability: data → model → validation → reporting.
+- Keep an open record of progress and ideas.
+  
 </div>
 
 <div data-lang="en" markdown="1">
 
-## Hi, I’m Francisca 👋
+### Hola, soy Francisca 👋
 
-Widely experienced expert in quantitative analysis and programming with a strong record of tackling challenges and
-driving impactful, enduring solutions; highly skilled in managing complex projects from concept to completion, bridging communication
-between economists and quantitative experts and ensuring robust, user-friendly solutions; bilingual in English and Spanish and able to
-adapt to different work environments
+Soy Quant Developer (MFE). Esta página es mi **bitácora de aprendizaje** y portafolio vivo: comparto notas, experimentos y *write-ups* para mostrar **cómo pienso**, **qué entrego** y **en qué estoy creciendo** (series de tiempo macro, curvas de rendimiento, opciones, riesgo de portafolio).
+
+**Objetivo de esta página**
+- Compartir aprendizajes reproducibles y concretos (no papers pulidos).
+- Mostrar capacidad end-to-end: datos → modelo → validación → reporte.
+- Mantener un registro abierto de progreso e ideas.
+
 </div>
+
+<h2>Post</h2>
