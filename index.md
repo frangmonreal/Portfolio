@@ -32,4 +32,4 @@ Soy Quant Developer (MFE). Esta página es mi **bitácora de aprendizaje** y por
 
 </div>
 
-<h2>Post</h2>
+<h1>Post</h1>
