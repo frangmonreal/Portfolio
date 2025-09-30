@@ -16,7 +16,15 @@ I’m a Quant Developer (MFE). This site is my **learning journey** and a living
 - Share concise, reproducible learnings (not polished papers).
 - Show end-to-end capability: data → model → validation → reporting.
 - Keep an open record of progress and ideas.
-  
+
+**Contact**
+Feel free to reach out if you’d like to discuss ideas, ask questions, or explore collaboration
+<a href="mailto:frangmonreal@gmail.com">frangmonreal@gmail.com</a> · <a href="https://www.linkedin.com/in/frangmonreal/" target="_blank" rel="noopener">LinkedIn</a>
+{% endcapture %}
+<div data-lang="en">
+  {{ en_md | markdownify }}
+</div>
+
 </div>
 
 <div data-lang="en" markdown="1">
@@ -29,6 +37,14 @@ Soy Quant Developer (MFE). Esta página es mi **bitácora de aprendizaje** y por
 - Compartir aprendizajes reproducibles y concretos (no papers pulidos).
 - Mostrar capacidad end-to-end: datos → modelo → validación → reporte.
 - Mantener un registro abierto de progreso e ideas.
+
+**Contact**
+No dudes en contactarme si quieres intercambiar ideas, hacer preguntas o explorar formas de colaborar.
+<a href="mailto:frangmonreal@gmail.com">frangmonreal@gmail.com</a> · <a href="https://www.linkedin.com/in/frangmonreal/" target="_blank" rel="noopener">LinkedIn</a>
+{% endcapture %}
+<div data-lang="es">
+  {{ en_md | markdownify }}
+</div>
 
 </div>
 
