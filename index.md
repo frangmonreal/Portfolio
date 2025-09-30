@@ -6,7 +6,7 @@ title: "Resume"
 
 <p>{% include lang-switch.html %}</p>
 
-<div data-lang="es" markdown="1">
+<div data-lang="en" markdown="1">
   
 ### Hi, I’m Francisca 👋
 
@@ -24,7 +24,7 @@ Feel free to reach out if you’d like to discuss ideas, ask questions, or explo
 
 </div>
 
-<div data-lang="en" markdown="1">
+<div data-lang="es" markdown="1">
 
 ### Hola, soy Francisca 👋
 
